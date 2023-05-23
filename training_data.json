@@ -1,0 +1,18 @@
+[
+    {
+      "context": "The sun is a star in our solar system. It is a huge ball of hot, glowing gas. The sun provides light and heat to the Earth.",
+      "question": "What is the sun?",
+      "predicted_answer": "The sun is a star."
+    },
+    {
+      "context": "Mount Everest is the highest mountain in the world. It is located in the Himalayas and reaches a height of 8,848 meters (29,029 feet).",
+      "question": "Where is Mount Everest located?",
+      "predicted_answer": "Mount Everest is located in the Himalayas."
+    },
+    {
+      "context": "Water consists of two hydrogen atoms and one oxygen atom. It is a vital substance for all living organisms and covers a significant portion of the Earth's surface.",
+      "question": "What is water made of?",
+      "predicted_answer": "Water is made of two hydrogen atoms and one oxygen atom."
+    }
+  ]
+  

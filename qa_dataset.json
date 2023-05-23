@@ -1,0 +1,28 @@
+[
+    {
+      "context": "Hello Everyone, my name is Rudra Laxmi Kanth, and I am a 3rd year undergraduate from IIT Madras. I joined Adobe on May 15, 23. I am thrilled to have joined the team as an intern, despite having no prior professional experience in this field. I am looking forward to learning from each team member. I have done a few projects in ML, and other projects like 16-bit hack computer in HDL, Reverse Engineering of L1 cache memory, etc. I am interested in the AI/ML field. I believe that this opportunity will allow me to learn and grow. Cricket and swimming are two activities I greatly enjoy. I am looking forward to working with all of you. Give a valid one",
+      "qas": [
+        {
+          "question": "What is your name",
+          "id": "q1",
+          "answer": "Rudra Laxmi Kanth"
+        },
+        {
+          "question": "Where are you from",
+          "id": "q2",
+          "answer": "IIT Madras"
+        },
+        {
+          "question": "When did you join Adobe",
+          "id": "q3",
+          "answer": "May 15, 23"
+        },
+        {
+          "question": "What are you thrilled about",
+          "id": "q4",
+          "answer": "joining the team as an intern"
+        }
+      ]
+    }
+  ]
+  
